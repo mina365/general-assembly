@@ -1,0 +1,36 @@
+*{
+  -moz-box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  box-sizing:border-box;
+}
+
+h2 {
+	color: red;
+}
+
+
+header h2 {
+	color: green;
+}
+
+aside p {
+	font-weight: bold;
+}
+
+ul li:first-of-type {
+	color:pink;
+}
+
+ul li:nth-of-type(2) {
+	color: pink;
+}
+
+
+ul li:nth-of-type(3) {
+	color: pink;
+}
+
+
+ul li:last-of-type {
+	color: pink;
+}
